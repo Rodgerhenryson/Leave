@@ -76,7 +76,7 @@
             android:layout_weight="1"
             android:layout_height="wrap_content"
             android:textColor="@android:color/white"
-            android:text="Forgot Password"/>
+            android:text="Forgot Password?"/>
 
     </LinearLayout>
 
